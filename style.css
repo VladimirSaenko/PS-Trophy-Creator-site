@@ -141,18 +141,18 @@ button {
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
     .title {
-        font-size: 55px;
+        font-size: 50px;
     }
 
     .trophyIcon {
         left: 0;
         top: 0;
-        width: 405px;
+        width: 305px;
     }
 
     .trophytypeImg {
-        width: 85px;
-        height: 85px;
+        width: 75px;
+        height: 75px;
     }
 
     .PSIcon {

@@ -145,18 +145,24 @@ button {
     }
 
     .trophyIcon {
-        left: 0;
+        left: 10%;
         top: 0;
         width: 305px;
-        height: 180px;
+        height: 200px;
+        flex-direction: column;
     }
 
     .trophytypeImg {
         width: 75px;
         height: 75px;
+        margin-top: 15px;
     }
 
     .PSIcon {
         display: none;
+    }
+
+    .container {
+        height: 150vh;
     }
 }

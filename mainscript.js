@@ -15,6 +15,9 @@ mainbutton.addEventListener("click", function() {
             trophyIcon.style.display = "flex";
             trophyIcon.style.animation = "uprise 0.5s forwards";
             trophyName.innerText = trophynameInput.value;
+            if(trophynameInput.value == '') {
+                trophyName.innerText = "empty";
+            }
             getTrophyInType();
         }, 500);
     }
@@ -27,6 +30,9 @@ mainbutton.addEventListener("click", function() {
             trophyIcon.style.display = "flex";
             trophyIcon.style.animation = "uprise 0.5s forwards";
             trophyName.innerText = trophynameInput.value;
+            if(trophynameInput.value == '') {
+                trophyName.innerText = "empty";
+            }
             getTrophyInType();
         }, 500);
     }

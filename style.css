@@ -98,7 +98,6 @@ button {
     background: black;
     border: 5px white solid;
     transition: transform 1s ease-in-out;
-    /* animation: uprise 1s forwards; */
 }
 
 .trophyIcon.active {
@@ -109,11 +108,6 @@ button {
     font-size: 35px;
     text-transform: capitalize;
 }
-
-/* .PSIcon {
-    width: 75px;
-    height: 75px;
-} */
 
 .trophytypeImg {
     width: 75px;
@@ -142,10 +136,6 @@ button {
         width: 75px;
         height: 75px;
         margin-top: 15px;
-    }
-
-    .PSIcon {
-        display: none;
     }
 
     .container {

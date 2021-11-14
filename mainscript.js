@@ -14,7 +14,6 @@ mainbutton.addEventListener("click", function() {
     trophyName.innerText = trophynameInput.value;
     getTrophyInType();
     trophyIcon.classList.add('active');
-
     if(trophynameInput.value == '') {
         trophyName.innerText = "Empty";
     }

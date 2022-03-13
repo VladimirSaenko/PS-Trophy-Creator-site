@@ -6,4 +6,4 @@
 
 ## Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-30/PS-Trophy-Creator-site/index.html
 
-### P.S Creator is not create real PS trophy! 
+### P.S: - Creator is not create real PS trophy!

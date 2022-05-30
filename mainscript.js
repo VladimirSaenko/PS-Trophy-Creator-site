@@ -39,16 +39,16 @@ function getTrophyInType() {
         }
     }
     else {
-        if (trophytypeInput.value == "Бронза") {
+        if(trophytypeInput.value == "Бронза") {
             trophyImg.src = "images/bronze-trophy.png";
         }
-        if (trophytypeInput.value == "Серебро") {
+        if(trophytypeInput.value == "Серебро") {
             trophyImg.src = "images/silver-trophy.png";
         }
-        if (trophytypeInput.value == "Золото") {
+        if(trophytypeInput.value == "Золото") {
             trophyImg.src = "images/gold-trophy.png";
         }
-        if (trophytypeInput.value == "Платина") {
+        if(trophytypeInput.value == "Платина") {
             trophyImg.src = "images/platinum-trophy.png";
         }
     }

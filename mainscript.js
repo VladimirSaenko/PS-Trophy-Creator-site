@@ -33,7 +33,7 @@ function getTrophyInType() {
         case 'Gold':
             trophyImg.src = "images/gold-trophy.png";
         break;
-        case 'Platina':
+        case 'Platinum':
             trophyImg.src = "images/platinum-trophy.png";
         break;
         default:

@@ -119,7 +119,10 @@ button {
 .trophyName {
     display: block;
     font-size: 45px;
+    width: 100%;
     text-transform: capitalize;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 .trophytypeImg {
